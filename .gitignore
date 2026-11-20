@@ -1,0 +1,7 @@
+# Large dataset
+state_NJ.csv
+
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
